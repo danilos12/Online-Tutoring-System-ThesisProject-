@@ -1,0 +1,10 @@
+Implementation Result
+	This project proposal developed an online platform which is an online session tutoring web for tutors and students, as results of implementation should base on the survey (see that figure in the appendices) if the online tutoring is efficient and, also, based on the testing survey result from tutor and students for the systems. The implementation of the system met the requirements for the programming and testing.
+
+
+
+Recommendations
+	The developer of this project proposal should recommend the system to improve for the next IT Capstone to innovate and improve the system done by the developers. It would like to recommend the following:
+Add and improve the documentations that had a need to develop a system
+Provide a good reference for the proposals.
+Improve some parts of the system.
